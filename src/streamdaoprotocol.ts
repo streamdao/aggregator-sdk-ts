@@ -71,7 +71,7 @@ export class StreamDaoProtocol {
 
   constructor(
     private connection: Connection,
-    private programId: PublicKey = ONESOL_PROTOCOL_PROGRAM_ID,
+    private programId: PublicKey = STREAM_PROTOCOL_PROGRAM_ID,
     private config: ConfigProps = defaultConfig
   ) {
     this.connection = connection;
