@@ -118,4 +118,4 @@ Sign these transactions and execute them to swap.
 
 ## Code in action
 
-[streamdao/aggregator-interface](https://github.com/streamdao/aggregator-interface/tree/feat-mainnet)
+[streamdao/aggregator-interface](https://github.com/streamdao/aggregator-interface)
